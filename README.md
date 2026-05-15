@@ -18,6 +18,10 @@ The best free online PDF tools. No installation needed.
 - [Protect PDF](https://the-pdf.com/tools/protect-pdf/) - Add password protection
 - [Unlock PDF](https://the-pdf.com/tools/unlock-pdf/) - Remove PDF password
 
+## All-in-One PDF Platforms
+
+- - [EveryTool4U](https://everytool4u.com) - 108 free browser-based PDF tools (merge, split, compress, sign, OCR, redact, rotate, PDF to Word, JPG to PDF, and more). Files never uploaded — 100% client-side via WebAssembly.
+
 ## Contributing
 Open a PR to add more tools!
 
